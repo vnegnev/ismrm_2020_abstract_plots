@@ -1,0 +1,75 @@
+CPgReferenceCurveAttributes:SourceType:Source:
+Resolution:3.333e-07:
+RecordLength:60006:
+HWRecordLength:60006:
+TriggerOffset:0:
+RescaleCenterTime:0.00588008:
+DecimationMode:Sample:
+TraceArithmetics:Off:
+TraceType:Normal:
+BaseUnit:V:
+BaseUnitRelative:Off:
+Impedance:50:
+XStart:-0.00411992:
+XStop:0.0158801:
+SignalRecordLength:60006:
+HardwareXStart:-0.00411992:
+HardwareXStop:0.0158801:
+SignalHardwareRecordLength:60006:
+AdjustedResolutionBW:0:
+NoiseBandwidth:0:
+InterleavedTraceCount:1:
+ValueType:Completely finite and defined:
+NofQuantisationLevels:253:
+DecimationFactor:3333:
+TOADone:Off:
+ISO_TRG:29:
+SC_POST:-516237963:
+SC_TRG:-516238008:
+SignalResolution:3.333e-07:
+LeadingSettlingSamples:0:
+TimeScale:0.002:
+ReferencePoint:20.5996:
+RescaleCenterPoint:50:
+VerticalPosition:0:
+VerticalScale:1:
+VerticalOffset:3.29:
+BaseYStart:-1.71:
+BaseYStop:8.29:
+ViewUnit:V:
+ViewUnitRelative:Off:
+ViewReferenceLevel:0:
+UseInterSampleTriggerOffset:Auto:
+Source:Ch1Wfm1:
+NumericFormat:Decimal:
+EnhancementMode:Interpolated time:
+InterpolationMode:sin(x)/x:
+CenterFreq:0:
+FreqSpan:1000:
+ResolutionBW:1:
+FrequencyStart:0:
+FrequencyStop:0:
+WindowType:Rectangular:
+GateRBWCoupling:Record length controlled:
+HorizontalDivisionCount:10:
+VerticalDivisionCount:10:
+MultiChannelExport:On:
+MultiChannelVerticalOffset:4:3.29:2.884:0:2.508:
+MultiChannelVerticalPosition:4:0:0:0:0:
+MultiChannelVerticalScale:4:1:0.2:0.05:0.2:
+MultiChannelBaseYStart:4:-1.71:1.884:-0.25:1.508:
+MultiChannelBaseYStop:4:8.29:3.884:0.25:3.508:
+MultiChannelExportState:4:On:On:On:On:
+MultiChannelViewUnit:4:V:V:V:V:
+MultiChannelInterleavedTraceCount:4:1:1:1:1:
+MultiChannelSource:4:Ch1Wfm1:Ch2Wfm1:Ch3Wfm1:Ch4Wfm1:
+FirmwareVersion:4.70.1.0:
+SignalFormat:FLOAT:
+Origin:Waveform export:
+ByteOrder:LSB first:
+NumberOfAcquisitions:1:
+TimestampState:Off:
+Timestamp:17:57 1,162.030.424 s:
+XAxisMode:Linear:
+XAxisTDRDomain:time:
+tdelay:0:
