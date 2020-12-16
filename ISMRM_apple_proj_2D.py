@@ -22,7 +22,7 @@ plt.axis('off')
 # plt.title('Image')
 
 plt.subplot(2, 2, 4)
-imgAngl = np.angle(Y) # np.angle(Y)
+imgAngl = np.angle(Y*np.exp(1j*np.pi)) # np.angle(Y)
 plt.imshow(imgAngl, cmap='gray')
 plt.axis('off')
 # plt.title('Image phase')
